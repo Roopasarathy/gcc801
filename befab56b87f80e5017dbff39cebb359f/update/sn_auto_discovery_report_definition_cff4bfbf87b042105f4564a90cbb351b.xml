@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sn_auto_discovery_report_definition">
+    <sn_auto_discovery_report_definition action="INSERT_OR_UPDATE">
+        <closed_column>closed_at</closed_column>
+        <cluster_records>true</cluster_records>
+        <current_stage>11</current_stage>
+        <distribution_column>priority</distribution_column>
+        <field>short_description</field>
+        <filter/>
+        <group_field>category</group_field>
+        <integration/>
+        <model/>
+        <name>Incident 03/14/2024</name>
+        <opened_column>opened_at</opened_column>
+        <rule_based_model_id/>
+        <solution_definition/>
+        <status>solution_complete</status>
+        <sys_class_name>sn_auto_discovery_report_definition</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-03-14 20:42:20</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_id>cff4bfbf87b042105f4564a90cbb351b</sys_id>
+        <sys_mod_count>8</sys_mod_count>
+        <sys_name>11</sys_name>
+        <sys_package display_value="fips_app" source="x_snc_fips_app">befab56b87f80e5017dbff39cebb359f</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="fips_app">befab56b87f80e5017dbff39cebb359f</sys_scope>
+        <sys_update_name>sn_auto_discovery_report_definition_cff4bfbf87b042105f4564a90cbb351b</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-03-14 20:47:14</sys_updated_on>
+        <table>incident</table>
+        <training_frequency>run_once</training_frequency>
+        <user_fields>state,contact_type,assignment_group,opened_at,closed_at</user_fields>
+        <watch_list>0e826bf03710200044e0bfc8bcbe5d7c</watch_list>
+    </sn_auto_discovery_report_definition>
+</record_update>

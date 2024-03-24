@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="" label="fipspdf" language="en" table="x_snc_fips_app_fipspdf">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element/>
+            <help/>
+            <hint/>
+            <label>fipspdf</label>
+            <language>en</language>
+            <name>x_snc_fips_app_fipspdf</name>
+            <plural>fipspdfs</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-03-13 17:16:21</sys_created_on>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>fipspdf</sys_name>
+            <sys_package display_value="fips_app" source="x_snc_fips_app">befab56b87f80e5017dbff39cebb359f</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="fips_app">befab56b87f80e5017dbff39cebb359f</sys_scope>
+            <sys_update_name>sys_documentation_x_snc_fips_app_fipspdf__en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-03-13 17:16:21</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

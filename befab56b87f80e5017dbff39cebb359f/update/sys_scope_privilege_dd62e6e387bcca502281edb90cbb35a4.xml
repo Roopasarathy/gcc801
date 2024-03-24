@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_scope_privilege">
+    <sys_scope_privilege action="INSERT_OR_UPDATE">
+        <operation>read</operation>
+        <source_scope display_value="fips_app">befab56b87f80e5017dbff39cebb359f</source_scope>
+        <status>allowed</status>
+        <sys_class_name>sys_scope_privilege</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2024-03-13 20:03:01</sys_created_on>
+        <sys_id>dd62e6e387bcca502281edb90cbb35a4</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>sys_di_pdf_input</sys_name>
+        <sys_package display_value="fips_app" source="x_snc_fips_app">befab56b87f80e5017dbff39cebb359f</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="fips_app">befab56b87f80e5017dbff39cebb359f</sys_scope>
+        <sys_update_name>sys_scope_privilege_dd62e6e387bcca502281edb90cbb35a4</sys_update_name>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2024-03-13 20:03:01</sys_updated_on>
+        <target_name>sys_di_pdf_input</target_name>
+        <target_scope display_value="Global">global</target_scope>
+        <target_type>sys_db_object</target_type>
+    </sys_scope_privilege>
+</record_update>

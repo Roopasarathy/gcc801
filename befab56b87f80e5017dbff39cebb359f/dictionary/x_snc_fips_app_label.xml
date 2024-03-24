@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="97b112ef87bc0e5017dbff39cebb35e1" label="label" max_length="40" name="x_snc_fips_app_label" type="collection">
+        <element label="Adjust" max_length="40" name="adjust" type="string"/>
+        <element label="Rate/Price" max_length="40" name="rate_price" type="string"/>
+        <element label="Sub Total" max_length="40" name="sub_total" type="string"/>
+    </element>
+</database>

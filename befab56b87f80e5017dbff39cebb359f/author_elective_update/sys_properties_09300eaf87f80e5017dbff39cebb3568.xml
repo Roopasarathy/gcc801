@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_properties">
+    <sys_properties action="DELETE">
+        <choices/>
+        <description/>
+        <ignore_cache>true</ignore_cache>
+        <is_private>false</is_private>
+        <name>x_snc_fips_app.glide.prediction_service.url</name>
+        <read_roles/>
+        <suffix>glide.prediction_service.url</suffix>
+        <sys_class_name>sys_properties</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-03-13 17:33:53</sys_created_on>
+        <sys_id>09300eaf87f80e5017dbff39cebb3568</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_snc_fips_app.glide.prediction_service.url</sys_name>
+        <sys_package display_value="fips_app" source="x_snc_fips_app">befab56b87f80e5017dbff39cebb359f</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="fips_app">befab56b87f80e5017dbff39cebb359f</sys_scope>
+        <sys_update_name>sys_properties_09300eaf87f80e5017dbff39cebb3568</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-03-13 17:33:53</sys_updated_on>
+        <type>string</type>
+        <value>https://mlpredictor-customer.hef100.service-now.com/</value>
+        <write_roles/>
+    </sys_properties>
+    <sys_translated_text action="DELETE" query="documentkey=09300eaf87f80e5017dbff39cebb3568"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="fips_app">befab56b87f80e5017dbff39cebb359f</application>
+        <file_path/>
+        <instance_id>f2022fa8db10355003463995f39619b4</instance_id>
+        <instance_name>gcc201testcqeadcvsb08</instance_name>
+        <name>sys_properties_09300eaf87f80e5017dbff39cebb3568</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_properties"><sys_properties action="INSERT_OR_UPDATE"><choices/><description/><ignore_cache>true</ignore_cache><is_private>false</is_private><name>x_snc_fips_app.glide.prediction_service.url</name><read_roles/><suffix>glide.prediction_service.url</suffix><sys_class_name>sys_properties</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2024-03-13 17:33:53</sys_created_on><sys_id>09300eaf87f80e5017dbff39cebb3568</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_snc_fips_app.glide.prediction_service.url</sys_name><sys_package display_value="fips_app" source="x_snc_fips_app">befab56b87f80e5017dbff39cebb359f</sys_package><sys_policy/><sys_scope display_value="fips_app">befab56b87f80e5017dbff39cebb359f</sys_scope><sys_update_name>sys_properties_09300eaf87f80e5017dbff39cebb3568</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-03-13 17:33:53</sys_updated_on><type>string</type><value>https://mlpredictor-customer.hef100.service-now.com/</value><write_roles/></sys_properties><sys_translated_text action="delete_multiple" query="documentkey=09300eaf87f80e5017dbff39cebb3568"/></record_update>]]></payload>
+        <payload_hash>-1827254323</payload_hash>
+        <record_name>x_snc_fips_app.glide.prediction_service.url</record_name>
+        <reverted_from/>
+        <source>87fab56b87f80e5017dbff39cebb35a2</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-03-13 17:33:54</sys_created_on>
+        <sys_id>b0404eef87f80e5017dbff39cebb3530</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18e38e0b5290000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-03-13 17:33:54</sys_updated_on>
+        <type>System Property</type>
+        <update_guid>b4404eeff3f80e50ae8e2064d0d4662f</update_guid>
+        <update_guid_history>b4404eeff3f80e50ae8e2064d0d4662f:-1827254323</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-03-13 17:36:03</sys_created_on>
+        <sys_db_object display_value="" name="sys_properties">sys_properties</sys_db_object>
+        <sys_id>bf5ab30c38a44e00981c397b1e190aa1</sys_id>
+        <sys_metadata>09300eaf87f80e5017dbff39cebb3568</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_snc_fips_app.glide.prediction_service.url</sys_name>
+        <sys_package display_value="fips_app" source="x_snc_fips_app">befab56b87f80e5017dbff39cebb359f</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="fips_app">befab56b87f80e5017dbff39cebb359f</sys_scope>
+        <sys_scope_delete display_value="">f66e3cd8178f405ca3b7f305bac88c90</sys_scope_delete>
+        <sys_update_name>sys_properties_09300eaf87f80e5017dbff39cebb3568</sys_update_name>
+        <sys_update_version display_value="sys_properties_09300eaf87f80e5017dbff39cebb3568">b0404eef87f80e5017dbff39cebb3530</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-03-13 17:36:03</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

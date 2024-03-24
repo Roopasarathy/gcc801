@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="f73c7dab87f80e5017dbff39cebb355c" label="fipspdf" max_length="40" name="x_snc_fips_app_fipspdf" type="collection"/>
+</database>

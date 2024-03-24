@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_di_key">
+    <sys_di_key action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <display_name>Annual Salary</display_name>
+        <group_index>1</group_index>
+        <key_config/>
+        <key_group display_value="drawmodetble">85236b7b877042105f4564a90cbb35f6</key_group>
+        <mandatory>false</mandatory>
+        <name>drawmodetbleannualsalary</name>
+        <order>1</order>
+        <stp_threshold/>
+        <synonym/>
+        <sys_class_name>sys_di_key</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-03-14 19:40:02</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_id>e2b623ff877042105f4564a90cbb35ec</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Annual Salary</sys_name>
+        <sys_package display_value="fips_app" source="x_snc_fips_app">befab56b87f80e5017dbff39cebb359f</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="fips_app">befab56b87f80e5017dbff39cebb359f</sys_scope>
+        <sys_update_name>sys_di_key_e2b623ff877042105f4564a90cbb35ec</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-03-14 19:40:02</sys_updated_on>
+        <target_field/>
+        <target_table/>
+        <task_definition display_value="drawmodeusecase">59151b3f873042105f4564a90cbb35cc</task_definition>
+        <total_used_positive_samples>0</total_used_positive_samples>
+        <type>Text</type>
+    </sys_di_key>
+</record_update>
